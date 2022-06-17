@@ -1,6 +1,6 @@
 <?php
 if (empty($name)){
-      echo"Hello";
+      echo"Hello World";
 }
 else{
       $name=$_GET['name'];
